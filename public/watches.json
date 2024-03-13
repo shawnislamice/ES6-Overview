@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Apple Watch Series 7", "price": 399 },
+  { "id": 2, "name": "Samsung Galaxy Watch 4", "price": 299 },
+  { "id": 3, "name": "Fitbit Versa 3", "price": 229 },
+  { "id": 4, "name": "Garmin Forerunner 945", "price": 599 },
+  { "id": 5, "name": "Xiaomi Mi Watch", "price": 129 },
+  { "id": 6, "name": "Huawei Watch GT 2 Pro", "price": 299 },
+  { "id": 7, "name": "Fossil Gen 6", "price": 299 },
+  { "id": 8, "name": "Amazfit GTR 3", "price": 199 },
+  { "id": 9, "name": "Polar Vantage V2", "price": 499 },
+  { "id": 10, "name": "Suunto 9 Baro", "price": 599 },
+  { "id": 11, "name": "TicWatch Pro 3 Ultra GPS", "price": 299 },
+  { "id": 12, "name": "Garmin Fenix 6", "price": 699 },
+  { "id": 13, "name": "Casio G-Shock GSW-H1000", "price": 699 },
+  { "id": 14, "name": "Oppo Watch", "price": 249 },
+  { "id": 15, "name": "Tag Heuer Connected", "price": 1900 },
+  { "id": 16, "name": "OnePlus Watch", "price": 159 },
+  { "id": 17, "name": "Skagen Falster 3", "price": 295 },
+  { "id": 18, "name": "Withings Steel HR Sport", "price": 199 },
+  { "id": 19, "name": "Timex Ironman R300", "price": 120 },
+  { "id": 20, "name": "Fossil Sport", "price": 275 }
+]
